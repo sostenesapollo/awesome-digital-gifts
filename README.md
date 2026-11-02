@@ -68,7 +68,6 @@ The gift arrives later, on purpose.
 - [FutureMe](https://www.futureme.org) — email to yourself or someone else, delivered on a chosen date. Free, been running since 2002.
 - [LetterMeLater](https://www.lettermelater.com) — same idea, supports attachments. Free tier.
 - [Gifts QR time capsule](https://giftsqr.com) — sealed page with photos, letter and video that refuses to open before the date you set.
-- [A Letter a Day](https://aletteraday.com) — scheduled sequence of letters rather than one. Paid.
 
 ## Games and quizzes
 
