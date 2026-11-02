@@ -75,7 +75,6 @@ The gift arrives later, on purpose.
 - [Kahoot](https://kahoot.com) — build a quiz about the two of you, play it live on a call.
 - [Skribbl.io](https://skribbl.io) — draw and guess, free, no account.
 - [Gifts QR couple's trial](https://giftsqr.com) — exam about the relationship with a certificate at the end.
-- [blocks.pw](https://blocks.pw) — 30-second reflex duels, share an arena link in the group chat.
 
 ## Open source templates
 
